@@ -1,5 +1,4 @@
 #APP FLASK (commande : flask run)
-# Partie formulaire non utilisée (uniquement appel à l'API)
 
 from flask import Flask, render_template, jsonify, request, flash, redirect, url_for
 from flask_wtf import Form
